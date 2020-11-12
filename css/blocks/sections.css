@@ -1,0 +1,29 @@
+.section-tours, .section-news {
+	margin-bottom: 141px;
+}
+
+.section-about {
+	margin-bottom: 50px;
+}
+
+.section__title-text {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 45px;
+}
+
+.inner-section {
+	background: #fff;
+	color: #1A1B1E;
+	padding: 90px 0px;
+}
+
+.inner-section--bg--grey {
+	background: #F4F5F5;
+}
+
+.inner-section__title {
+	font-size: 48px;
+	font-weight: bold;
+	margin-bottom: 40px;
+}

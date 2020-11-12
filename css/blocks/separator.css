@@ -1,0 +1,17 @@
+.separator {
+	background: url("../../images/decor/couple.png") right 28% bottom no-repeat, url("../../images/bg/middleline.jpg") center center no-repeat;
+	min-height: 360px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.separator__content {
+	max-width: 50%;
+}
+
+.separator__title {
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 1.1;
+}

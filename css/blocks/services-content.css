@@ -1,0 +1,59 @@
+.page-content {
+	background: #ffffff;
+	color: #303030;
+	padding: 93px 0px;
+}
+
+.services {
+	margin-bottom: 70px;
+}
+
+.service {
+	display: flex;
+	text-decoration: none;
+	margin-bottom: 49px;
+	transition: 0.5s;
+}
+
+.service:hover {
+	background: #f4f5f5;
+	border-radius: 5px;
+}
+
+.service:hover .service__btn {
+	background: #fff;
+	color:#F5170E;
+	border: 1px solid #F5170E;
+}
+
+.services__item:last-child {
+	margin-bottom: 0px;
+}
+
+.service__img {
+	width: 466px;
+	height: 333px;
+	overflow: hidden;
+	margin-right: 5%;
+	border-radius: 5px;
+}
+
+.service__content {
+	flex: 1;
+	padding: 0px 20px 32px 0px;
+}
+
+.service__title {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	color: #000000;
+}
+
+.service__desc {
+	line-height: 27px;
+}
+
+.service__text {
+	margin-bottom: 53px;
+}
